@@ -1,6 +1,5 @@
 # SocialAdda
 
-Live at: <https://social-adda-app.herokuapp.com/>
 
 Real-time chat app having various rooms or channels with WebSockets using Node.js, Express, and Socket.io with Vanilla JS on the frontend with a custom UI.
 
